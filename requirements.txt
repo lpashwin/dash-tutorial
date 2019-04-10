@@ -1,5 +1,4 @@
 dash==0.40.0
 dash-core-components==0.45.0
 dash-html-components==0.15.0
-os
 gunicorn
